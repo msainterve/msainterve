@@ -40,6 +40,6 @@ Projet d’initiation au Machine Learning avec préparation des données, entra�
 
 **Outils :** Python, Pandas, Scikit-learn
 
-## 📫 Me contacter
+## Me contacter
 
 LinkedIn : linkedin.com/in/monikasainterve
