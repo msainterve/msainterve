@@ -4,7 +4,7 @@
 
 Je transforme des données brutes en analyses, indicateurs et outils d’aide à la décision.
 
-## 🎯 Domaines d’intervention
+##  Domaines d’intervention
 
 - Études statistiques
 - Analyse de données
@@ -13,7 +13,7 @@ Je transforme des données brutes en analyses, indicateurs et outils d’aide à
 - Business Intelligence
 - Analyse économique
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
 - Power BI / Power Query / DAX
 - SQL
@@ -23,7 +23,7 @@ Je transforme des données brutes en analyses, indicateurs et outils d’aide à
 - SAS
 - Statistiques & économétrie
 
-## 📊 Projets
+##  Projets
 
 ### HR Analytics – Analyse et valorisation des données RH
 Projet fictif de pilotage RH : effectifs, turnover, absentéisme, rémunérations, formation et performance.
